@@ -316,9 +316,6 @@ on reader.name = social_data_facebook.name
 order by reader.reader_ID;
 
 -- from here, we need to understand what data we need in order to predict useful trends.
-  -- should we ask the professor? or do you have any idea
-
-
 
 -- Support a collection application to remind the reader (by sms, by mail, by letter) 
   -- the loan end date, and manage the fee associated to late returns.
